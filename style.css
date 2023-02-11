@@ -2,7 +2,7 @@
     background-color: #e7e7e7;
 }
 
-h1 {
+#myId {
     text-align: center;
     padding-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -45,3 +45,33 @@ div.list_sect {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+#Top ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  #TOP {
+    float: left;
+  }
+  
+  #Top a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #Top a:hover {
+    background-color: #111;
+  }
+  
+  a {
+      text-decoration: none;
+  }
